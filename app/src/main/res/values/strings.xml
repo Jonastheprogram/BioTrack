@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="bemVindo">Bem-vindo ao BioTrack!</string>
+
+    <string name="login">Login</string>
+    <string name="digitemail">Digite o seu e-mail</string>
+    <string name="digitsenha">Digite a sua senha</string>
+    <string name="entrar">ENTRAR</string>
+    <string name="registrese">Registre-se</string>
+    <string name="esqueci_senha">Esqueci Senha</string>
+
+
+    <string name="mapA">Mapa de Avistamento</string>
+    <string name="avistamento">Avistamento 1</string>
+    <string name="centralizar">Centralizar no Mapa</string>
+
+
+    <string name="nome_exemplo">João Silva</string>
+    <string name="email_exemplo">joao@email.com</string>
+    <string name="notificacoes">Notificações</string>
+    <string name="edit_perfil">Editar Perfil</string>
+    <string name="contribuicoes">Minhas Contribuições</string>
+    <string name="sair">Sair</string>
+
+
+    <string name="registro">Registrar</string>
+    <string name="descricao">"Descrição"</string>
+    <string name="localizacao">Localização</string>
+    <string name="nome_especie">Nome da Espécie</string>
+    <string name="registro_avistamento">Registrar Avistamento</string>
+
+
+    <string name="BioTrack">BioTrack</string>
+    <string name="welcome">Seja Bem vindo!</string>
+    <string name="reg_avistamento">Registrar Avistamento</string>
+    <string name="list_avistamento">Lista de Avistamentos</string>
+    <string name="config">Configurações</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</resources>
